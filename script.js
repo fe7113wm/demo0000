@@ -1,6 +1,6 @@
 for (var i = 0; i < 100; i++) {
     var request = new XMLHttpRequest();
-    request.open('GET', 'data.txt', false);
+    request.open('GET', 'data.txt');
     
     request.onreadyStateChange = function () {
         // document.getElementById('demo').innerHTML = request.responseText;
