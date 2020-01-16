@@ -1,5 +1,5 @@
 var request = new XMLHttpRequest();
-request.open('GET', 'data.txt')
+request.open('GET', 'data.txt', false);
 request.send();
 console.log(request);
-document.getElementById('demo').innterHTML = request.responseText;
+document.getElementById('demo').innerHTML = request.responseText;
