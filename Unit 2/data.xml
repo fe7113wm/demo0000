@@ -1,0 +1,36 @@
+<artists>
+    <artist>
+        <artistname>Autechre</artistname>
+        <album>Quaristice</album>
+        <Label>Warp Record</Label>
+        <year>2008</year>
+    </artist>
+
+      <artist>
+        <artistname>Aphex Twin</artistname>
+        <album>Richrad D. James album and Come to Daddy</album>
+        <label>Warp Record</label>
+        <year>1996</year>
+    </artist>
+
+      <artist>
+        <artistname>Future Sound Of London</artistname>
+        <album>Dead Cities</album>
+        <Label>Astralwerkd/ Virnin Records</Label>
+        <year>1996</year>
+    </artist>
+
+      <artist>
+        <artistname>BTS</artistname>
+        <album>Love Yourself</album>
+        <Label>Big Hit</Label>
+        <year>2019</year>
+    </artist>
+
+      <artist>
+        <artistname>xxx</artistname>
+        <album>yyy</album>
+        <Label>zzz</Label>
+        <year>aaa</year>
+    </artist>
+</artists>
