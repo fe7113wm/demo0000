@@ -1,12 +1,13 @@
 
     // var request = new XMLHttpRequest();
+    function loadAJAX(){}
     var request; 
     if(window.XMLHttpRequest){
         request = new XMLHttpRequest();
     } else {
         request = new ActiveXObject("Microsoft.XMLHTTP");
     }
-    request.open('GET', 'data.xml');
+    request.open('GET', 'data.json');
     
     request.onreadystatechange = function () {
 
@@ -14,14 +15,17 @@
             
            
              var items = JSON.parse(request.responseText);
-             console.log
-            // var output = '<ul>';
+             console.log(items);
+             var output = '<ul>';
+             for(var key in items) {
+                output += '<li>' + items[key].artistname + '</li>';
+             }
             // for (var i = 0; i < items.length; i++) {
             //     // output += '<li>' + items[i].firstChild.nodeValue + '</li>';
             //     output += '<li>' + items[i].firstChild.nodeValue + '</li>';
             // }
-            // output += '</ul>';
-            // document.getElementById('update').innerHTML = output;
+            output += '</ul>';
+            document.getElementById('update').innerHTML = output;
         }
     }
     request.send();

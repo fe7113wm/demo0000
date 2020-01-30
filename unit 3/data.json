@@ -1,9 +1,26 @@
 [
-
     {
-        "artistname":"Autecher",
-        "album":"Autechre",
-        "label":"Quaristice",
+        "artistname":"Autechre",
+        "album":"Quaristice",
+        "label":"Warp Record",
         "year":"2008"
+    },
+    {
+        "artistname":"Aphex Twin",
+        "album":"Richrad D. James album and Come to Daddy",
+        "label":"Warp Record",
+        "year":"1996"
+    },
+    {
+        "artistname":"Future Sound Of London",
+        "album":"Dead Cities",
+        "label":"Astralwerkd/ Virnin Records",
+        "year":"1996"
+    },
+    {
+        "artistname":"BTS",
+        "album":"Love Yourself",
+        "label":"Big Hit",
+        "year":"2019"
     }
 ]
