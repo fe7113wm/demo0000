@@ -1,0 +1,35 @@
+[
+    {
+        "artistname":"Autechre",
+        "album":"Quaristice",
+        "label":"Warp Records",
+        "year":"2008",
+        "albumImg": "f",
+        "bio": "'Autechre are an English electronic music duo consisting of Rob Brown and Sean Booth, both from Rochdale, Greater Manchester. Formed in 1987, they are one of the best known acts signed to UK electronic label Warp Records, through which all of Autechre's full-length albums have been released beginning with their 1993 debut Incunabula. They gained initial recognition when they were featured on Warp's 1992 compilation Artificial Intelligence."
+    },
+    {
+        "artistname":"Aphex Twin",
+        "album":"Richard D. James Album and Come to Daddy",
+        "label":"Warp Records",
+        "year":"1996",
+        "albumImg":"q",
+        "bio":"Richard David James (born 18 August 1971), best known by the stage name Aphex Twin, is an English musician. He is best known for his idiosyncratic work in electronic styles such as techno and ambient music in the 1990s, and has also been associated with the electronic subgenre known as intelligent dance music."
+    },
+    {
+        "artistname":"Future Sounds of London",
+        "album":"Dead Cities",
+        "label":"Astralwerks/Virgin Records",
+        "year":"1996",
+        "albumImg": "d",
+        "bio":"Richard David James (born 18 August 1971), best known by the stage name Aphex Twin, is an English musician. He is best known for his idiosyncratic work in electronic styles such as techno and ambient music in the 1990s, and has also been associated with the electronic subgenre known as intelligent dance music."
+
+    },
+    {
+        "artistname":"Kraftwerk",
+        "album":"Computer World",
+        "label":"Kling Klang/Warner Brothers",
+        "year":"1981",
+        "albumImg": "s",
+        "bio":"Richard David James (born 18 August 1971), best known by the stage name Aphex Twin, is an English musician. He is best known for his idiosyncratic work in electronic styles such as techno and ambient music in the 1990s, and has also been associated with the electronic subgenre known as intelligent dance music."
+    }
+]
